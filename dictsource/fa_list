@@ -1850,19 +1850,19 @@ U+20	fAsele_
 التهاب	eltehAb
 التیام	eltijAm
 التیماتوم	oltimAtom
-الجسه	odZdZosse:
-الجسۀ	odZdZosseje
+الجثه	odZdZosse:
+الجثۀ	odZdZosseje
 الجیش	oldZejS
 الحاد	elhAd
 الحاق	elhAq1
 الحام	elhAm
-الحسنه	olhasane:
+الحسن	olhasan
 الحمد	alhamd
 الحمدالله	alhamdolellAh
 الخروج	olxoRudZ
 الخط	olxat
 الخطاب	olxetAb
-الخلقه	olxelq1e
+الخلق	olxelq1
 الدنگ	aldang
 الدنگی	aldangi
 الدول	oddo:l
@@ -1888,7 +1888,7 @@ U+20	fAsele_
 السوی	assavi
 السکوت	os:okut
 السیر	os:ejR
-الشرکه	oSSeRke
+الشرک	oSSeRk
 الشعاع	oSSo?A?
 الشعرا	oSSo?aRA
 الشفا	oSSafA
@@ -1905,7 +1905,7 @@ U+20	fAsele_
 العمار	ol?emAR
 العمل	ol_amal
 العموم	ol?omum
-العهد	olahd
+العهد	ol?ahd
 الغا	elq1A
 الغاگری	elq1AgaRi
 الف	alef
@@ -2920,6 +2920,7 @@ U+20	fAsele_
 بدخواه	badxAh
 بدخوراک	badxoRAk
 بدخوری	badxoRi
+بدخیم	badxim
 بددماغ	baddamAq1
 بددهن	baddahan
 بددوا	baddavA
@@ -3089,6 +3090,7 @@ U+20	fAsele_
 بردار	baRdAR
 بردبار	boRdbAR
 بردج	baRdedZ
+بردستان	baRdestAn
 بردسیر	baRdsiR
 بردم	boRdam
 بردن	boRdan
@@ -3586,6 +3588,7 @@ U+20	fAsele_
 بنیاد	bonjAd
 بنیامین	benjAmin
 بنیان	bonjAn
+بنیگی	bonijegi
 بها	bahA
 بهاءالله	bahA_ollAh
 بهائیت	bahA?ijjat
@@ -4295,6 +4298,7 @@ U+20	fAsele_
 تریلۀ	teRijoleje
 تریلی	teRejli
 تریلیون	teRiljun
+تریلیونر	teReljuneR
 تریم	taRim
 تریمر	teRimeR
 ترین	taRin
@@ -4667,7 +4671,6 @@ U+20	fAsele_
 تونست	tunest
 تونل	tunel
 تونگ	tong
-تونی	toni
 توهم	ta'vahhom
 توهمزا	tavahhomzA
 توهین	to:hin
@@ -6919,6 +6922,7 @@ U+20	fAsele_
 رومان	RomAn
 رومانیا	RomAnijA
 رومبلی	Rumobli
+رومن	Roman
 رومولوس	Romolus
 رومی	Rumi
 رومینا	RominA
@@ -7938,6 +7942,7 @@ U+20	fAsele_
 سیلارد	silARd
 سیلندر	silandR
 سیلور	silveR
+سیلویا	silvijA
 سیلیسیم	silisijom
 سیلیکن	silikon
 سیلیکون	silikon
@@ -8971,7 +8976,6 @@ U+20	fAsele_
 غریبان	q1aRibAn
 غرید	q1oRRid
 غریم	q1oRRim
-غز	q1oz
 غزل	q1azal
 غزنوی	q1aznavi
 غزنویان	q1aznavijAn
@@ -9307,6 +9311,7 @@ U+20	fAsele_
 فریدریک	feRidRik
 فریدون	feRejdun
 فریز	feRiz
+فریزبی	feRizbi
 فریزر	feRizeR
 فریفت	faRift
 فریلنسر	feRilanseR
@@ -9656,6 +9661,7 @@ U+20	fAsele_
 قرص	q1oRs
 قرعه	q1oR?e:
 قرق	q1oRoq1
+قرقان	q1aRaq1An
 قرقاول	q1aRq1Avol
 قرقر	q1eRq1eR
 قرقرو	q1oRq1oRu
@@ -10062,6 +10068,7 @@ U+20	fAsele_
 لهراسپ	lohRAsp
 لهستان	lahestAn
 لهش	lehaS
+لهم	leham
 لهو	lahv
 لهید	lehid
 لو	lo
@@ -11631,6 +11638,7 @@ U+20	fAsele_
 ممت	mamat
 ممتاز	momtAz
 ممتد	momtad
+ممتهن	momtahan
 ممتون	mamatun
 ممد	mamad
 ممر	mamaRR
@@ -12305,6 +12313,7 @@ U+20	fAsele_
 نامیزد	nAmizad
 نامیمون	nAmejmun
 ناندان	nAndAn
+نانسی	nAnsi
 نانو	nAno
 نانوا	nAnvA
 نانومتر	nAnometR
@@ -12841,6 +12850,7 @@ U+20	fAsele_
 نچرخان	natSaRxAn
 نچش	natSeS
 نچشان	natSeSAn
+نچین	natSin
 نچیند	natSinad
 نژاد	neZAd
 نژادپرستانه	neZAdpaRastAne
@@ -12940,6 +12950,7 @@ U+20	fAsele_
 نیترات	nitRAt
 نیترور	nitRuR
 نیتروژن	nitRoZen
+نیتریت	nitRit
 نیترید	nitRid
 نیجر	nidZeR
 نیجریه	nidZeRije:
@@ -13263,6 +13274,7 @@ U+20	fAsele_
 همینش	haminaS
 همینطور	haminto:R
 همینم	haminam
+همینو	hamino
 همینک	haminak
 همینگوی	hemingvej
 همیوپاتی	homijopAti
@@ -13966,6 +13978,7 @@ U+20	fAsele_
 پرمنگنات	peRmangenAt
 پرمو	poRmu
 پرمی	poRmej
+پرمیوم	peRmijom
 پرند	paRand
 پرنده	paRande:
 پرندوش	paRanduS
@@ -14349,6 +14362,7 @@ U+20	fAsele_
 پکن	pekan
 پکیج	pakejdZ
 پکید	pokid
+پگاسوس	pegAsus
 پگاه	pegAh
 پگه	pegah
 پی	pej
@@ -14661,6 +14675,7 @@ U+20	fAsele_
 چوبین	tSubin
 چودری	tSodaRi
 چپاول	tSapAvol
+چپت	tSapat
 چپر	tSapaR
 چپش	tSapaS
 چپق	tSopoq1
@@ -14991,6 +15006,7 @@ U+20	fAsele_
 کراک	keRAk
 کراکت	keRAket
 کراکر	keRAkeR
+کراکف	keRAkof
 کراکن	keRAken
 کرایه	keRAje:
 کرایۀ	keRAjeje
@@ -15136,6 +15152,7 @@ U+20	fAsele_
 کشنده	koSande:
 کشندگی	koSandegi
 کشو	keSo
+کشواد	keSvAd
 کشور	keSvaR
 کشوند	keSund
 کشکنجیر	koSkandZiR
@@ -15215,6 +15232,7 @@ U+20	fAsele_
 کلنل	kolonel
 کلنگ	kolang
 کلنگر	kolnegaR
+کلنگی	kolangi
 کلهر	kalhoR
 کلهگوش	kolahguS
 کلود	kelo:d
