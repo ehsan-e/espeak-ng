@@ -920,6 +920,7 @@ U+20	fAsele_
 ابوظبی	abuzabi
 ابوعطا	abuatA
 ابول	abol
+ابولا	ebolA
 ابولهب	abulahab
 ابومسلم	abumoslem
 ابونعیم	abunaim
@@ -2543,6 +2544,7 @@ U+20	fAsele_
 ایرتاکسی	ejRtAksi
 ایرج	iRadZ
 ایرلاین	ejRlAjn
+ایرلاینز	ejRlAjnz
 ایرمان	iRmAn
 ایروبیک	ejRobik
 ایرپاد	ejRpAd
@@ -3149,6 +3151,7 @@ U+20	fAsele_
 برتر	baRtaR
 برتراند	beRtRAnd
 برتری	baRtaRi
+برتولت	beRtolt
 برج	boRdZ
 برجا	baRdZA
 برجست	baRdZast
@@ -4353,7 +4356,10 @@ U+20	fAsele_
 ترنج	toRandZ
 ترند	taRand
 ترنس	teRans
+ترنسفورم	teRansfoRm
+ترنسفورمر	teRansfoRmeR
 ترنم	taRannom
+ترنوس	teRnus
 ترنگ	toRang
 ترهات	toRRahAt
 تروا	teRovA
@@ -5115,6 +5121,7 @@ U+20	fAsele_
 جسور	dZasuR
 جسپر	dZaspeR
 جسیکا	dZesikA
+جعال	dZo?Al
 جعبه	dZa?be:
 جعفر	dZa?faR
 جعفرنیا	dZa?faRnijA
@@ -6663,6 +6670,7 @@ U+20	fAsele_
 ذیلا	zejlan
 رآلیست	ReAlist
 رآلیسم	ReAlism
+رآکتور	ReAktoR
 رأیند	Rajand
 رؤسا	Ro?asA
 رؤیت	Ro?jat
@@ -6778,6 +6786,7 @@ U+20	fAsele_
 رت	Rot
 رتب	Rotb
 رتردام	RoteRdAm
+رترو	RetRo
 رتور	RotoR
 رتیل	Rotejl
 رثا	ResA
@@ -7546,6 +7555,7 @@ U+20	fAsele_
 سایلنت	sAjlent
 سایمن	sAjmon
 ساین	sAjn
+ساینس	sAjens
 سایکوتیک	sAjkotik
 سایکوز	sAjkoz
 سایکوپات	sAjkopAt
@@ -8597,6 +8607,7 @@ U+20	fAsele_
 شیروان	SiRvAn
 شیروی	Si:Ravi
 شیزوفرنی	SizofeRni
+شیزوفرنیک	SizofeRnik
 شیست	Sist
 شیطان	SejtAn
 شیطنت	Sejtanat
@@ -8923,6 +8934,7 @@ U+20	fAsele_
 عاشقشه	?A:Seq1eSe
 عاشقشی	?A:Seq1eSi
 عاشقم	?A:Seq1am
+عاصم	_Asem
 عاقبت	?Aq1ebat
 عالما	?Aleman
 عالمتاب	?A:lamtAb
@@ -8988,6 +9000,7 @@ U+20	fAsele_
 عرفات	_aRafAt
 عرفان	_eRfAn
 عرق	_aRaq1
+عرقیجات	_aRaq1idZAt
 عروس	_aRus
 عروض	_aRuz
 عریان	_oRijAn
@@ -9654,6 +9667,7 @@ U+20	fAsele_
 فلاورجان	falAvaRdZAn
 فلاپ	felAp
 فلاپس	felAps
+فلای	felAj
 فلت	felat
 فلج	faladZ
 فلدسپات	feldespAt
@@ -10133,6 +10147,7 @@ U+20	fAsele_
 لئو	le?o
 لئون	le?on
 لئوناردو	le_onARdo
+لائیسیت	lA?isit
 لاابالی	lAobAli
 لابد	lAbod
 لابراتوار	lAbRAtuAR
@@ -10194,6 +10209,7 @@ U+20	fAsele_
 لاینقطع	lAjanq1ate?
 لایوتسه	lA?otese:
 لایک	lAjk
+لاییسیت	lAi:sit
 لباب	lobAb
 لباده	labbAde:
 لباس	'lebAs
@@ -10435,6 +10451,7 @@ U+20	fAsele_
 لیزر	lejzeR
 لیزینگی	lizingi
 لیزیک	lejzik
+لیسد	lisad
 لیفتراک	lifteRAk
 لیل	lajl
 لیلا	lejlA
@@ -13622,6 +13639,7 @@ U+20	fAsele_
 همنفس	hamnafas
 همنهشت	hamneheSt
 هموروئید	hemoRo?id
+هموفوب	homofob
 هموفوبیا	homofobijA
 هموفونی	homofoni
 هموفیل	hemofil
@@ -13873,6 +13891,7 @@ U+20	fAsele_
 واگذاشت	vA:gozASt
 واگشت	vAgaSt
 واگن	vAgon
+واگنر	vAgneR
 وایب	vAjb
 وایت	vAjt
 وایتکس	vAjteks
@@ -14107,6 +14126,7 @@ U+20	fAsele_
 پائین	'pA?in
 پابرجا	pAbaRdZA
 پابرهن	pAbeRahn
+پابلو	pAblo
 پابند	pAband
 پاتختی	pAtaxti
 پاترول	pAtRol
@@ -14199,6 +14219,7 @@ U+20	fAsele_
 پاکباخت	pAkbAxt
 پاکت	pAkat
 پاکنه	pAkne
+پاگند	pAgond
 پایتخت	pAjtaxt
 پایتون	pAjton
 پاید	pAjad
@@ -14410,6 +14431,7 @@ U+20	fAsele_
 پروتئین	peRoto?in
 پروتاگوراس	poRotAgoRAs
 پروتز	poRotez
+پروتست	poRotest
 پروتستان	poRotestAn
 پروتوتایپ	poRototAjp
 پروتون	poRoton
@@ -15612,6 +15634,7 @@ U+20	fAsele_
 کل	'kol
 کلاب	kelAb
 کلاد	kelAd
+کلادفلر	kelAdfeleR
 کلارا	kelARA
 کلارک	kelARk
 کلارینت	kelARinet
@@ -15639,6 +15662,7 @@ U+20	fAsele_
 کلاپرک	kolApaRak
 کلاچ	kelAtS
 کلاژن	kolAZen
+کلاک	kelAk
 کلاین	kelAjn
 کلاینت	kelAjent
 کلبه	kolbe:
@@ -15673,6 +15697,7 @@ U+20	fAsele_
 کلهر	kalhoR
 کلهگوش	kolahguS
 کلود	kelo:d
+کلودفلر	kelodfeleR
 کلودیو	kelodijo
 کلوپاترا	kelopAtRA
 کلوچه	kolutSe:
@@ -15688,6 +15713,7 @@ U+20	fAsele_
 کلکسیون	koleksijon
 کلکسیونر	koleksijoneR
 کلکش	kalakaS
+کلگری	kalgeRi
 کلۀ	kalleje
 کلی	ko'lli
 کلید	kelid
